@@ -1,5 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "build"
+        "build",
+        "main/java/edu/uw",
+        "test/java/edu/uw/ckks"
     ]
 }
