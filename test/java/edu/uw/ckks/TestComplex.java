@@ -8,6 +8,6 @@ public class TestComplex {
     
     public static void main(String[] theArgs) {
         Complex complex = new Complex(19, 81);
-        System.out.println(HPDIC_BRAND + complex);
+        System.out.println(HPDIC_BRAND + "A new complex number " + complex);
     }
 }
