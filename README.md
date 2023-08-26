@@ -1,3 +1,9 @@
+# HPDIC MOD
+
+* Installation
+    * `sudo apt install maven -y`
+
+
 # Java-CKKS
 Relevant papers:
 
