@@ -1,8 +1,13 @@
 # HPDIC MOD
-
 * Installation
     * `sudo apt install maven -y`
-
+* Compilation    
+    * `bash compile.sh`, or manually do the following
+    * `javac -d build main/java/edu/uw/ckks/*.java`
+    * `javac -d build -cp build test/java/edu/uw/ckks/*.java`
+* Run
+    * `bash run.sh`, or manually do the following
+    * `java -cp build test.java.edu.uw.ckks.TestComplex`
 
 # Java-CKKS
 Relevant papers:
